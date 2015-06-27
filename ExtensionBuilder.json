@@ -61,7 +61,7 @@
             "disableLocalization": false,
             "disableVersioning": false,
             "sourceLanguage": "en",
-            "state": "alpha",
+            "state": "beta",
             "targetVersion": "6.2",
             "version": "0.0.0"
         },
