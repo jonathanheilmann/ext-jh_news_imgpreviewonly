@@ -63,7 +63,7 @@
             "sourceLanguage": "en",
             "state": "beta",
             "targetVersion": "6.2",
-            "version": "0.0.0"
+            "version": "0.0.1"
         },
         "extensionKey": "jh_news_imgpreviewonly",
         "name": "Image preview only for EXT:news",

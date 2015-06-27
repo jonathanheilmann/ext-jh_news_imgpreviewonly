@@ -10,8 +10,8 @@
 conf.py:
   copyright: 2015
   project: Image preview only for EXT:news
-  version: 0.0.0
-  release: 0.0.0
+  version: 0.0.1
+  release: 0.0.1
   intersphinx_mapping:
     t3tsref:
     - http://docs.typo3.org/typo3cms/TyposcriptReference/
