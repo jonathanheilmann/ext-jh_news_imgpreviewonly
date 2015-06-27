@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2015-06-27T13:11:33Z">
+		<header>
+			<generator>LFEditor</generator>
+		</header>
+		<body>
+		<trans-unit id="tx_jhnewsimgpreviewonly_domain_model_filereference.jh_news_imagepreviewonly" approved="yes">
+			<source>Show in preview views only</source>
+			<target>Nur in Vorschau-Ansichten anzeigen</target>
+		</trans-unit>
+		</body>
+	</file>
+</xliff>

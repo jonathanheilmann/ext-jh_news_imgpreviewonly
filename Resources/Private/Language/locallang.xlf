@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
-	<file source-language="en" datatype="plaintext" original="messages" date="2015-06-26T19:00:00Z" product-name="jh_news_imgpreviewonly">
-		<header/>
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-06-27T13:11:33Z">
+		<header>
+			<generator>LFEditor</generator>
+		</header>
 		<body>
-			<trans-unit id="tx_jhnewsimgpreviewonly_domain_model_filereference">
-				<source>File Reference</source>
-			</trans-unit>
-			<trans-unit id="tx_jhnewsimgpreviewonly_domain_model_filereference.jh_news_imagepreviewonly">
-				<source>Jh News Imagepreviewonly</source>
-			</trans-unit>
+		<trans-unit id="tx_jhnewsimgpreviewonly_domain_model_filereference">
+			<source>File Reference</source>
+		</trans-unit>
+		<trans-unit id="tx_jhnewsimgpreviewonly_domain_model_filereference.jh_news_imagepreviewonly">
+			<source>Show in preview views only</source>
+		</trans-unit>
 		</body>
 	</file>
 </xliff>
