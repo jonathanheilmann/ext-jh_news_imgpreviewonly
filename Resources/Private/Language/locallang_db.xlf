@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-06-26T19:00:00Z" product-name="jh_news_imgpreviewonly">
+		<header/>
+		<body>
+			<trans-unit id="tx_jhnewsimgpreviewonly_domain_model_filereference">
+				<source>File Reference</source>
+			</trans-unit>
+			<trans-unit id="tx_jhnewsimgpreviewonly_domain_model_filereference.jh_news_imagepreviewonly">
+				<source>Jh News Imagepreviewonly</source>
+			</trans-unit>
+			<trans-unit id="sys_file_reference.tx_extbase_type.Tx_JhNewsImgpreviewonly_FileReference">
+				<source>Image preview only for EXT:news FileReference</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

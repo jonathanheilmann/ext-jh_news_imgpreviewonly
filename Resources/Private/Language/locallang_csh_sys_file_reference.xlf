@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-06-26T19:00:00Z" product-name="jh_news_imgpreviewonly">
+		<header/>
+		<body>
+			<trans-unit id="jh_news_imagepreviewonly.description">
+				<source>Display image in preview only</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

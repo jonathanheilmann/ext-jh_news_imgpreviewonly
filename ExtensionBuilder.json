@@ -1,0 +1,88 @@
+{
+    "modules": [
+        {
+            "config": {
+                "position": [
+                    84,
+                    106
+                ]
+            },
+            "name": "New Model Object",
+            "value": {
+                "actionGroup": {
+                    "_default0_list": false,
+                    "_default1_show": false,
+                    "_default2_new_create": false,
+                    "_default3_edit_update": false,
+                    "_default4_delete": false,
+                    "customActions": []
+                },
+                "name": "FileReference",
+                "objectsettings": {
+                    "addDeletedField": true,
+                    "addHiddenField": true,
+                    "addStarttimeEndtimeFields": true,
+                    "aggregateRoot": false,
+                    "categorizable": false,
+                    "description": "",
+                    "mapToTable": "sys_file_reference",
+                    "parentClass": "\\Tx_News_Domain_Model_FileReference",
+                    "sorting": false,
+                    "type": "Entity",
+                    "uid": "885811738994"
+                },
+                "propertyGroup": {
+                    "properties": [
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "Display image in preview only",
+                            "propertyIsExcludeField": true,
+                            "propertyIsRequired": false,
+                            "propertyName": "jhNewsImagepreviewonly",
+                            "propertyType": "Boolean",
+                            "uid": "870002566206"
+                        }
+                    ]
+                },
+                "relationGroup": {
+                    "relations": []
+                }
+            }
+        }
+    ],
+    "properties": {
+        "backendModules": [],
+        "description": "Adds a checkbox to EXT:news images to display image only as preview.",
+        "emConf": {
+            "category": "plugin",
+            "custom_category": "",
+            "dependsOn": "typo3 => 6.2.0-6.2.99\n",
+            "disableLocalization": false,
+            "disableVersioning": false,
+            "sourceLanguage": "en",
+            "state": "alpha",
+            "targetVersion": "6.2",
+            "version": "0.0.0"
+        },
+        "extensionKey": "jh_news_imgpreviewonly",
+        "name": "Image preview only for EXT:news",
+        "originalExtensionKey": "jh_news_imgpreviewonly",
+        "persons": [
+            {
+                "company": "",
+                "email": "mail@jonathan-heilmann.de",
+                "name": "Jonathan Heilmann",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [],
+        "vendorName": "Heilmann"
+    },
+    "wires": [],
+    "log": {
+        "last_modified": "2015-06-26 07:07",
+        "extension_builder_version": "6.2.0",
+        "be_user": "Jonathan Heilmann (1)"
+    }
+}
